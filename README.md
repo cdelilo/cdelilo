@@ -6,7 +6,7 @@
 
 
 Hi there 👋🏻  
-I'm Christian Moreira, Senior Software Developer at [Devskin](https://devskin.com/), working in ReactJS and NodeJS ecosystem.
+I'm Christian Moreira, Senior Software Engineer at [Inteli](https://www.inteli.edu.br), working in ReactJS and NodeJS ecosystem.
 
 My favourites tools: &nbsp; <img src="https://github.com/cdelilo/cdelilo/blob/main/assets/typescript.png" width="20"/> <b>TypeScript</b>, <img src="https://github.com/cdelilo/cdelilo/blob/main/assets/react.png" width="20"/> <b>ReactJS</b>, <img src="https://github.com/cdelilo/cdelilo/blob/main/assets/node.png" width="20"/> <b>NodeJS</b>
 
